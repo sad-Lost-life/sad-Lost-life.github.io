@@ -1,0 +1,12 @@
+{
+    "name": "rmmz-game",
+    "main": "index.html",
+    "chromium-args": "--force-color-profile=srgb",
+    "window": {
+        "title": "おねえさんとのあま～い性活",
+        "width": 1200,
+        "height": 800,
+        "position": "center",
+        "icon": "icon/icon.png"
+    }
+}
